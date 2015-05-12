@@ -1,0 +1,55 @@
+    body {
+     background-color: #CFCFCF;
+     font-weight: bold;
+     font-family: georgia;
+     line-height: 1.5;
+}
+
+    header {
+      text-align: center;
+      color: white;
+
+    }
+
+    header nav a {
+      color: white;
+      font-size: 20px;
+      text-decoration: none;
+      text-align: center;
+      padding: 20px;
+    }
+
+    h1 { 
+       color: #61C1FD;
+       font-size: 70px;
+      }
+
+    h2 {
+      color: #61C1FD;
+    }
+      
+    ul {
+        padding: 10px;
+        background: black;
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    p {
+      color: white;
+    }
+
+    footer nav a {
+      color: white;
+      text-decoration: none;
+    }
+
+    a:hover {
+    color: blue;
+} 
+    
+    
+
+
+
